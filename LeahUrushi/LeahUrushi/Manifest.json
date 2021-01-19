@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Leah Urushi",
+  "Author": "Ethan W Lin",
+  "Version": "1.0.0",
+  "Description": "Simple mod that replaces Leah's protrait with Urushi Yaotome from Shogi Senpai (go read)",
+  "UniqueID": "EthanWLin.LeahUrushi",
+  "EntryDll": "LeahUrushi.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
